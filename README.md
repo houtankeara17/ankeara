@@ -10,9 +10,10 @@
 - Tools: Git, Docker, Postman  
 
 ## 📌 Projects
-- [Notes App (MERN)](https://github.com/your-repo-link)  
-- [Purchase Order System (MERN)](https://github.com/your-repo-link)  
-- [Laravel AJAX CRUD](https://github.com/your-repo-link)  
+- [Blog code Laravel](https://github.com/Ankeara/litcoding_blog.git)  
+- [Travel Story App (MERN)](https://github.com/Ankeara/travel-story-app.git)  
+- [Loan System Laravel](https://github.com/Ankeara/system-loans.git)
+- [Sale Marketing Java Spring Boot](https://github.com/houtankeara17/sale_marketing.git) 
 
 ## 🌍 Let's Connect
 - LinkedIn: [Your Profile](https://linkedin.com/in/your-link)  
