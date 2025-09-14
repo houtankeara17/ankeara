@@ -16,4 +16,3 @@
 - [Sale Marketing Java Spring Boot](https://github.com/houtankeara17/sale_marketing.git) 
 
 ## 🌍 Let's Connect
-// - LinkedIn: [Your Profile](https://linkedin.com/in/your-link)  
